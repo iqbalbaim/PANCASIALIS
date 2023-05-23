@@ -1,0 +1,25 @@
+body {
+    background-color: goldenrod;
+
+}
+h1 {
+    background-color: aliceblue;
+}
+.container-navbar {
+background-color: gold;
+}
+.container-home {
+    font-weight: bold; font-size: xx-large;
+    border : 1px solid black;
+}
+.container-kegiatan {
+    font-weight: bold; font-size: xx-large;
+    border : 1px solid black;
+}
+.container-moment {
+    font-weight: bold; font-size: xx-large;
+    border : 1px solid black;
+}
+.container{
+    padding: 10px;
+}
